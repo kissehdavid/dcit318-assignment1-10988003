@@ -1,0 +1,15 @@
+/home/khiss_dhave/RiderProjects/DCIT318/Grade Calculator/bin/Debug/net8.0/Grade Calculator
+/home/khiss_dhave/RiderProjects/DCIT318/Grade Calculator/bin/Debug/net8.0/Grade Calculator.deps.json
+/home/khiss_dhave/RiderProjects/DCIT318/Grade Calculator/bin/Debug/net8.0/Grade Calculator.runtimeconfig.json
+/home/khiss_dhave/RiderProjects/DCIT318/Grade Calculator/bin/Debug/net8.0/Grade Calculator.dll
+/home/khiss_dhave/RiderProjects/DCIT318/Grade Calculator/bin/Debug/net8.0/Grade Calculator.pdb
+/home/khiss_dhave/RiderProjects/DCIT318/Grade Calculator/obj/Debug/net8.0/Grade Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/khiss_dhave/RiderProjects/DCIT318/Grade Calculator/obj/Debug/net8.0/Grade Calculator.AssemblyInfoInputs.cache
+/home/khiss_dhave/RiderProjects/DCIT318/Grade Calculator/obj/Debug/net8.0/Grade Calculator.AssemblyInfo.cs
+/home/khiss_dhave/RiderProjects/DCIT318/Grade Calculator/obj/Debug/net8.0/Grade Calculator.csproj.CoreCompileInputs.cache
+/home/khiss_dhave/RiderProjects/DCIT318/Grade Calculator/obj/Debug/net8.0/Grade Calculator.sourcelink.json
+/home/khiss_dhave/RiderProjects/DCIT318/Grade Calculator/obj/Debug/net8.0/Grade Calculator.dll
+/home/khiss_dhave/RiderProjects/DCIT318/Grade Calculator/obj/Debug/net8.0/refint/Grade Calculator.dll
+/home/khiss_dhave/RiderProjects/DCIT318/Grade Calculator/obj/Debug/net8.0/Grade Calculator.pdb
+/home/khiss_dhave/RiderProjects/DCIT318/Grade Calculator/obj/Debug/net8.0/Grade Calculator.genruntimeconfig.cache
+/home/khiss_dhave/RiderProjects/DCIT318/Grade Calculator/obj/Debug/net8.0/ref/Grade Calculator.dll
