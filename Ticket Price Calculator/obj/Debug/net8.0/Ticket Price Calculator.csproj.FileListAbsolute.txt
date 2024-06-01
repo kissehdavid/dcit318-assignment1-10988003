@@ -1,0 +1,15 @@
+/home/khiss_dhave/RiderProjects/DCIT318/Ticket Price Calculator/bin/Debug/net8.0/Ticket Price Calculator
+/home/khiss_dhave/RiderProjects/DCIT318/Ticket Price Calculator/bin/Debug/net8.0/Ticket Price Calculator.deps.json
+/home/khiss_dhave/RiderProjects/DCIT318/Ticket Price Calculator/bin/Debug/net8.0/Ticket Price Calculator.runtimeconfig.json
+/home/khiss_dhave/RiderProjects/DCIT318/Ticket Price Calculator/bin/Debug/net8.0/Ticket Price Calculator.dll
+/home/khiss_dhave/RiderProjects/DCIT318/Ticket Price Calculator/bin/Debug/net8.0/Ticket Price Calculator.pdb
+/home/khiss_dhave/RiderProjects/DCIT318/Ticket Price Calculator/obj/Debug/net8.0/Ticket Price Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/khiss_dhave/RiderProjects/DCIT318/Ticket Price Calculator/obj/Debug/net8.0/Ticket Price Calculator.AssemblyInfoInputs.cache
+/home/khiss_dhave/RiderProjects/DCIT318/Ticket Price Calculator/obj/Debug/net8.0/Ticket Price Calculator.AssemblyInfo.cs
+/home/khiss_dhave/RiderProjects/DCIT318/Ticket Price Calculator/obj/Debug/net8.0/Ticket Price Calculator.csproj.CoreCompileInputs.cache
+/home/khiss_dhave/RiderProjects/DCIT318/Ticket Price Calculator/obj/Debug/net8.0/Ticket Price Calculator.sourcelink.json
+/home/khiss_dhave/RiderProjects/DCIT318/Ticket Price Calculator/obj/Debug/net8.0/Ticket Price Calculator.dll
+/home/khiss_dhave/RiderProjects/DCIT318/Ticket Price Calculator/obj/Debug/net8.0/refint/Ticket Price Calculator.dll
+/home/khiss_dhave/RiderProjects/DCIT318/Ticket Price Calculator/obj/Debug/net8.0/Ticket Price Calculator.pdb
+/home/khiss_dhave/RiderProjects/DCIT318/Ticket Price Calculator/obj/Debug/net8.0/Ticket Price Calculator.genruntimeconfig.cache
+/home/khiss_dhave/RiderProjects/DCIT318/Ticket Price Calculator/obj/Debug/net8.0/ref/Ticket Price Calculator.dll
